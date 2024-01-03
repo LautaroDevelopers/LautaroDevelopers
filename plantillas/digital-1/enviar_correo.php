@@ -17,4 +17,6 @@ $carta .= "Mensaje: $mensaje";
 
 //Envio de Mensaje
 mail($destinatario, $asunto, $carta);
+header('Location: contact.html');
+
 ?>
