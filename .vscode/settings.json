@@ -1,0 +1,46 @@
+{
+<<<<<<< HEAD
+	"cSpell.language": "en,es-ES",
+	"cSpell.words": ["Lautaro"],
+	"editor.fontSize": 22
+=======
+  "editor.fontFamily": "'Comic Mono', Consolas, 'Courier New', monospace",
+  "cSpell.language": "en,es-ES",
+  "cSpell.words": ["Lautaro"],
+  "editor.fontSize": 22,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line",
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "prettier.bracketSameLine": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "editor.autoClosingBrackets": "always",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.bracketPairs": true,
+  "lmptm.browserPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "lmptm.incognitoMode": false,
+  "lmptm.startPages": [
+    "https://www.youtube.com/watch?v=UYoV6s0vnPQ&list=RDUYoV6s0vnPQ",
+    "https://www.spotify.com"
+  ],
+  "lmptm.userData": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontFamily": "Comic Mono, Consolas, 'Courier New', monospace",
+  "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontWeight": "500",
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.localEchoExcludePrograms": [],
+  "terminal.integrated.allowMnemonics": true,
+  "terminal.integrated.minimumContrastRatio": 5,
+  "git.terminalGitEditor": true,
+  "task.showDecorations": false,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 3,
+  "workbench.panel.opensMaximized": "never"
+>>>>>>> 3b8a59c (Plantilla para agencias terminada al 100%)
+}
