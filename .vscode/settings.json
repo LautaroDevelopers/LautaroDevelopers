@@ -1,6 +1,6 @@
 {
-  "cSpell.language": "en,es-ES",
-  "cSpell.words": ["Lautaro"],
+  "cSpell.language": "es-ES,es,lorem",
+  "cSpell.words": ["Lautaro", "layouts"],
   "editor.fontSize": 22,
   "editor.fontFamily": "'Comic Mono', Consolas, 'Courier New', monospace",
   "editor.cursorBlinking": "expand",
