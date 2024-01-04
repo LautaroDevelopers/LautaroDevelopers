@@ -507,6 +507,10 @@ footer .column > a:hover {
   margin-bottom: 1.4rem;
 }
 
+.row img:hover {
+  cursor: pointer;
+}
+
 .header span {
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 1px #fff;
@@ -545,6 +549,12 @@ footer .column > a:hover {
   color: #1d4ed8;
 }
 
+.row-icon i:hover {
+  transition: color 0.5s ease;
+  cursor: pointer;
+  color: #00f;
+}
+
 .row h4 {
   font-size: 25px;
   font-weight: 700;
@@ -557,7 +567,6 @@ footer .column > a:hover {
   border: 1px solid #1e40af;
   transform: translateY(-5px) scale(1.03);
   transition: all 0.5s ease;
-  cursor: pointer;
 }
 
 /* Política de Privacidad - Términos y Condiciones */
