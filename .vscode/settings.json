@@ -1,6 +1,6 @@
 {
   "cSpell.language": "es-ES,es,lorem",
-  "cSpell.words": ["Lautaro", "layouts"],
+  "cSpell.words": ["Lautaro", "layouts", "Terminos"],
   "editor.fontSize": 22,
   "editor.fontFamily": "'Comic Mono', Consolas, 'Courier New', monospace",
   "editor.cursorBlinking": "expand",
@@ -27,7 +27,7 @@
   "terminal.integrated.minimumContrastRatio": 5,
   "git.terminalGitEditor": true,
   "task.showDecorations": false,
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "off",
   "editor.tabSize": 3,
   "workbench.panel.opensMaximized": "never"
 }

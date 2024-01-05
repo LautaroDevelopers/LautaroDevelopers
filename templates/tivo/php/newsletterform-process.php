@@ -2,38 +2,38 @@
 $errorMSG = "";
 
 if (empty($_POST["email"])) {
-    $errorMSG = "Email is required ";
+    $errorMSG = "Por favor ingrese un correo ";
 } else {
     $email = $_POST["email"];
 }
 
-if (empty($_POST["terms"])) {
-    $errorMSG = "Terms is required ";
+if (empty($_POST["Terminos"])) {
+    $errorMSG = "Marque la casilla ";
 } else {
-    $terms = $_POST["terms"];
+    $terms = $_POST["Terminos"];
 }
 
-$EmailTo = "yourname@domain.com";
-$Subject = "New newsletter subscription from Tivo landing page";
+$EmailTo = "lautaroledesma2021@gmail.com";
+$Subject = "Contacto desde landing-tivo";
 
 // prepare email body text
 $Body = "";
 $Body .= "Email: ";
 $Body .= $email;
 $Body .= "\n";
-$Body .= "Terms: ";
+$Body .= "Terminos: ";
 $Body .= $terms;
 $Body .= "\n";
 
 // send email
-$success = mail($EmailTo, $Subject, $Body, "From:".$email);
+$success = mail($EmailTo, $Subject, $Body, "De:".$email);
 
 // redirect to success page
 if ($success && $errorMSG == ""){
-   echo "success";
+   echo "Éxito";
 }else{
     if($errorMSG == ""){
-        echo "Something went wrong :(";
+        echo "Algo salió mal :(";
     } else {
         echo $errorMSG;
     }
