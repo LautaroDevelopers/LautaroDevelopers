@@ -44,7 +44,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroDevelopers&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LautaroDevelopers&theme=transparent)
+![](https://github-profile-trophy.vercel.app/?username=LautaroDevelopers&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=LautaroDevelopers&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LautaroDevelopers&icon=0&color=1)](https://visitcount.itsvg.in)
