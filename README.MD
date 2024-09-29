@@ -40,12 +40,11 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ5MW5mbWttNzV0OTlpN3hiZGVpd2N4Nmp4aWt5N2tscXB6eW02aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PkGLJIKYcgCYrxdpks/giphy.gif" width="45px"> GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LautaroDevelopers&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroDevelopers&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LautaroDevelopers&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroDevelopers&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LautaroDevelopers&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-profile-trophy.vercel.app/?username=LautaroDevelopers&theme=transparent)
 
 
 [![](https://visitcount.itsvg.in/api?id=LautaroDevelopers&icon=5&color=12)](https://visitcount.itsvg.in)
